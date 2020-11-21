@@ -1,0 +1,2 @@
+module cgdemo1 {
+}
